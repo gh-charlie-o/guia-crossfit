@@ -1,0 +1,2267 @@
+[
+  {
+    "id": "abmat-sit-up",
+    "name": "AbMat Sit-up",
+    "aliases": [
+      "sit up",
+      "situp"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "AbMat"
+    ],
+    "keywords": [
+      "abmat sit-up",
+      "abmat sit up",
+      "sit up",
+      "situp"
+    ],
+    "youtubeId": "VIZX2Ru9qU8",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-abmat-sit-up"
+  },
+  {
+    "id": "air-squat",
+    "name": "Air Squat",
+    "aliases": [
+      "squat",
+      "bodyweight squat",
+      "sentadilla"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "air squat",
+      "squat",
+      "bodyweight squat",
+      "sentadilla"
+    ],
+    "youtubeId": "rMvwVtlqjTE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-air-squat"
+  },
+  {
+    "id": "back-scale",
+    "name": "Back Scale",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "back scale"
+    ],
+    "youtubeId": "Arh2Q_prqvw",
+    "sourceUrl": "https://www.crossfit.com/essentials/back-scales-progression"
+  },
+  {
+    "id": "back-squat",
+    "name": "Back Squat",
+    "abbreviation": "BS",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "back squat",
+      "bs",
+      "sentadilla trasera"
+    ],
+    "youtubeId": "QmZAiBqPvZw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-back-squat"
+  },
+  {
+    "id": "bar-muscle-up",
+    "name": "Bar Muscle-Up",
+    "abbreviation": "BMU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "bar muscle up",
+      "bmu"
+    ],
+    "youtubeId": "",
+    "sourceUrl": ""
+  },
+  {
+    "id": "barbell-front-rack-lunge",
+    "name": "Barbell Front-rack Lunge",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "barbell front-rack lunge",
+      "barbell front rack lunge",
+      "estocada"
+    ],
+    "youtubeId": "f3WLs_HutLw",
+    "sourceUrl": "https://www.crossfit.com/essentials/barbell-front-rack-lunge"
+  },
+  {
+    "id": "bench-press",
+    "name": "Bench Press",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell",
+      "Bench"
+    ],
+    "keywords": [
+      "bench press",
+      "press banca"
+    ],
+    "youtubeId": "SCVCLChPQFY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-bench-press"
+  },
+  {
+    "id": "box-jump",
+    "name": "Box Jump",
+    "abbreviation": "BJ",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Box"
+    ],
+    "keywords": [
+      "box jump",
+      "bj"
+    ],
+    "youtubeId": "NBY9-kTuHEk",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-box-jump"
+  },
+  {
+    "id": "box-jump-over",
+    "name": "Box Jump Over",
+    "abbreviation": "BJO",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Box"
+    ],
+    "keywords": [
+      "box jump over",
+      "bjo"
+    ],
+    "youtubeId": "",
+    "sourceUrl": ""
+  },
+  {
+    "id": "box-step-up",
+    "name": "Box Step-up",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Box"
+    ],
+    "keywords": [
+      "box step-up",
+      "box step up"
+    ],
+    "youtubeId": "5qjqDHOUh-A",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-box-step-up"
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "burpee"
+    ],
+    "youtubeId": "auBLPXO8Fww",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-burpee-2"
+  },
+  {
+    "id": "burpee-box-jump-over",
+    "name": "Burpee Box Jump Over",
+    "abbreviation": "BBJO",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Box"
+    ],
+    "keywords": [
+      "burpee box jump over",
+      "bbjo"
+    ],
+    "youtubeId": "GLktGkmcvWE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-burpee-box-jump-over"
+  },
+  {
+    "id": "butterfly-pull-up",
+    "name": "Butterfly Pull-up",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "butterfly pull-up",
+      "butterfly pull up"
+    ],
+    "youtubeId": "U_MhBXnlInE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-butterfly-pull-up"
+  },
+  {
+    "id": "chest-to-bar-pull-up",
+    "name": "Chest-to-Bar Pull-Up",
+    "abbreviation": "C2B",
+    "aliases": [
+      "ctb",
+      "chest to bar"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "chest to bar",
+      "c2b",
+      "ctb"
+    ],
+    "youtubeId": "",
+    "sourceUrl": ""
+  },
+  {
+    "id": "chest-to-wall-handstand-push-up",
+    "name": "Chest-to-wall Handstand Push-up",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "chest-to-wall handstand push-up",
+      "chest to wall hspu"
+    ],
+    "youtubeId": "lkPPVyExFpU",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-chest-to-wall-handstand-push-up"
+  },
+  {
+    "id": "clean",
+    "name": "Clean",
+    "aliases": [
+      "squat clean",
+      "cargada"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "clean",
+      "squat clean",
+      "cargada"
+    ],
+    "youtubeId": "Ty14ogq_Vok",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-clean-2"
+  },
+  {
+    "id": "clean-and-jerk",
+    "name": "Clean and Jerk",
+    "abbreviation": "C&J",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "clean and jerk",
+      "c&j",
+      "cargada y envion"
+    ],
+    "youtubeId": "PjY1rH4_MOA",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-clean-and-jerk"
+  },
+  {
+    "id": "clean-and-push-jerk",
+    "name": "Clean and Push Jerk",
+    "aliases": [
+      "squat clean and push jerk"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "clean and push jerk"
+    ],
+    "youtubeId": "GqAEuwXQXRU",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-squat-clean-and-push-jerk"
+  },
+  {
+    "id": "deadlift",
+    "name": "Deadlift",
+    "abbreviation": "DL",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "deadlift",
+      "dl",
+      "peso muerto"
+    ],
+    "youtubeId": "1ZXobu7JvvE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-deadlift"
+  },
+  {
+    "id": "dip",
+    "name": "Dip",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Dip bars"
+    ],
+    "keywords": [
+      "dip",
+      "fondos"
+    ],
+    "youtubeId": "o2qX3Zb5mvg",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dip"
+  },
+  {
+    "id": "double-under",
+    "name": "Double Under",
+    "abbreviation": "DU",
+    "aliases": [],
+    "categories": [
+      "Monostructural"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "double under",
+      "du"
+    ],
+    "youtubeId": "82jNjDS19lg",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-double-under"
+  },
+  {
+    "id": "dumbbell-clean",
+    "name": "Dumbbell Clean",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell clean",
+      "db clean"
+    ],
+    "youtubeId": "SYxObzJ3gn0",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-clean"
+  },
+  {
+    "id": "dumbbell-deadlift",
+    "name": "Dumbbell Deadlift",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell deadlift",
+      "db deadlift"
+    ],
+    "youtubeId": "JNpUNRPQkAk",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-deadlift"
+  },
+  {
+    "id": "dumbbell-farmers-carry",
+    "name": "Dumbbell Farmers Carry",
+    "aliases": [
+      "farmers carry"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell farmers carry",
+      "farmers carry",
+      "db farmers carry"
+    ],
+    "youtubeId": "p5MNNosenJc",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-farmer-carry"
+  },
+  {
+    "id": "dumbbell-front-squat",
+    "name": "Dumbbell Front Squat",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell front squat",
+      "db front squat"
+    ],
+    "youtubeId": "B86Zj72LwzA",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-front-squat"
+  },
+  {
+    "id": "dumbbell-front-rack-lunge",
+    "name": "Dumbbell Front-rack Lunge",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell front-rack lunge",
+      "dumbbell front rack lunge",
+      "db front-rack lunge",
+      "db front rack lunge"
+    ],
+    "youtubeId": "7EmwtpAI8cM",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-front-rack-lunge"
+  },
+  {
+    "id": "dumbbell-hang-clean",
+    "name": "Dumbbell Hang Clean",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell hang clean",
+      "db hang clean"
+    ],
+    "youtubeId": "8r44xv_Aqbw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-hang-clean"
+  },
+  {
+    "id": "dumbbell-hang-power-clean",
+    "name": "Dumbbell Hang Power Clean",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell hang power clean",
+      "db hang power clean"
+    ],
+    "youtubeId": "myc1taX-uBs",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-hang-power-clean"
+  },
+  {
+    "id": "dumbbell-overhead-squat",
+    "name": "Dumbbell Overhead Squat",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell overhead squat",
+      "db overhead squat"
+    ],
+    "youtubeId": "azumEfnk-GI",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-overhead-squat"
+  },
+  {
+    "id": "dumbbell-overhead-walking-lunge",
+    "name": "Dumbbell Overhead Walking Lunge",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell overhead walking lunge",
+      "db overhead walking lunge"
+    ],
+    "youtubeId": "J3DxelcaaMU",
+    "sourceUrl": "https://www.crossfit.com/essentials/dumbbell-overhead-walking-lunge"
+  },
+  {
+    "id": "dumbbell-power-clean",
+    "name": "Dumbbell Power Clean",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell power clean",
+      "db power clean"
+    ],
+    "youtubeId": "viWI2rEt-HU",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-power-clean"
+  },
+  {
+    "id": "dumbbell-power-snatch",
+    "name": "Dumbbell Power Snatch",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell power snatch",
+      "db power snatch"
+    ],
+    "youtubeId": "3mlhF3dptAo",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-power-snatch"
+  },
+  {
+    "id": "dumbbell-push-jerk",
+    "name": "Dumbbell Push Jerk",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell push jerk",
+      "db push jerk"
+    ],
+    "youtubeId": "rnN3pYswScE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-push-jerk"
+  },
+  {
+    "id": "dumbbell-push-press",
+    "name": "Dumbbell Push Press",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell push press",
+      "db push press"
+    ],
+    "youtubeId": "4tCaD42ghlc",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-push-press"
+  },
+  {
+    "id": "dumbbell-squat-snatch",
+    "name": "Dumbbell Squat Snatch",
+    "aliases": [
+      "dumbbell snatch"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell squat snatch",
+      "dumbbell snatch",
+      "db squat snatch",
+      "db snatch"
+    ],
+    "youtubeId": "etK3OPjM3S4",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-snatch"
+  },
+  {
+    "id": "dumbbell-thruster",
+    "name": "Dumbbell Thruster",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell thruster",
+      "db thruster"
+    ],
+    "youtubeId": "u3wKkZjE8QM",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-thruster"
+  },
+  {
+    "id": "dumbbell-turkish-get-up",
+    "name": "Dumbbell Turkish Get-up",
+    "aliases": [
+      "turkish get up"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Dumbbell"
+    ],
+    "keywords": [
+      "dumbbell turkish get-up",
+      "turkish get up",
+      "dumbbell turkish get up",
+      "db turkish get-up",
+      "db turkish get up"
+    ],
+    "youtubeId": "saYKvqSscuY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-dumbbell-turkish-get-up"
+  },
+  {
+    "id": "forward-roll-from-support",
+    "name": "Forward Roll From Support",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "forward roll from support"
+    ],
+    "youtubeId": "xF8ptIfnfBo",
+    "sourceUrl": "https://www.crossfit.com/essentials/forward-roll-from-support"
+  },
+  {
+    "id": "freestanding-handstand-push-up",
+    "name": "Freestanding Handstand Push-up",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "freestanding handstand push-up",
+      "freestanding hspu"
+    ],
+    "youtubeId": "aAErmRDDJKY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-freestanding-handstand-push-up"
+  },
+  {
+    "id": "front-scale",
+    "name": "Front Scale",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "front scale"
+    ],
+    "youtubeId": "WgXaf7g0Pyo",
+    "sourceUrl": "https://www.crossfit.com/essentials/front-scales-progression"
+  },
+  {
+    "id": "front-squat",
+    "name": "Front Squat",
+    "abbreviation": "FS",
+    "aliases": [
+      "barbell front squat"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "front squat",
+      "fs",
+      "sentadilla frontal"
+    ],
+    "youtubeId": "uYumuL_G_V0",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-front-squat"
+  },
+  {
+    "id": "ghd-back-extension",
+    "name": "GHD Back Extension",
+    "abbreviation": "GHD",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "GHD"
+    ],
+    "keywords": [
+      "ghd back extension"
+    ],
+    "youtubeId": "ivDB23Kcv-A",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-ghd-back-extension"
+  },
+  {
+    "id": "ghd-hip-extension",
+    "name": "GHD Hip Extension",
+    "abbreviation": "GHD",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "GHD"
+    ],
+    "keywords": [
+      "ghd hip extension"
+    ],
+    "youtubeId": "P0iuN0xygc0",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-ghd-hip-extension"
+  },
+  {
+    "id": "ghd-hip-and-back-extension",
+    "name": "GHD Hip and Back Extension",
+    "abbreviation": "GHD",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "GHD"
+    ],
+    "keywords": [
+      "ghd hip and back extension"
+    ],
+    "youtubeId": "QdCzafAXJhY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-ghd-hip-and-back-extension"
+  },
+  {
+    "id": "ghd-hip-back-and-hip-back-extension",
+    "name": "GHD Hip, Back, and Hip-back Extension",
+    "abbreviation": "GHD",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "GHD"
+    ],
+    "keywords": [
+      "ghd hip, back, and hip-back extension",
+      "ghd hip back and hip back extension"
+    ],
+    "youtubeId": "uha4orxDqSM",
+    "sourceUrl": "https://www.crossfit.com/at-home/hip-back-and-hip-back-extensions"
+  },
+  {
+    "id": "ghd-sit-up",
+    "name": "GHD Sit-up",
+    "abbreviation": "GHD",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "GHD"
+    ],
+    "keywords": [
+      "ghd sit-up",
+      "ghd sit up"
+    ],
+    "youtubeId": "oFwt7WfnPcc",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-ghd-sit-up"
+  },
+  {
+    "id": "glide-kip",
+    "name": "Glide Kip",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "glide kip"
+    ],
+    "youtubeId": "6UYEyhFpN0s",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-glide-kip"
+  },
+  {
+    "id": "good-morning",
+    "name": "Good Morning",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "good morning"
+    ],
+    "youtubeId": "KxYxHr1lkx4",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-good-morning"
+  },
+  {
+    "id": "handstand",
+    "name": "Handstand",
+    "aliases": [
+      "freestanding handstand"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "handstand",
+      "parado de manos"
+    ],
+    "youtubeId": "_-9_46by2JI",
+    "sourceUrl": "https://www.crossfit.com/essentials/freestanding-handstand"
+  },
+  {
+    "id": "handstand-pirouette",
+    "name": "Handstand Pirouette",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "handstand pirouette"
+    ],
+    "youtubeId": "tTnvKzRLCUk",
+    "sourceUrl": "https://www.crossfit.com/essentials/pirouettes"
+  },
+  {
+    "id": "handstand-push-up",
+    "name": "Handstand Push-Up",
+    "abbreviation": "HSPU",
+    "aliases": [
+      "hspu"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "handstand push up",
+      "hspu"
+    ],
+    "youtubeId": "qbRbM6d5ddM",
+    "sourceUrl": "https://www.crossfit.com/essentials/handstand-push-up-variations"
+  },
+  {
+    "id": "handstand-walk",
+    "name": "Handstand Walk",
+    "abbreviation": "HSW",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "handstand walk",
+      "hsw"
+    ],
+    "youtubeId": "FdgJ9jZIT-Q",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-handstand-walk"
+  },
+  {
+    "id": "hang-clean",
+    "name": "Hang Clean",
+    "abbreviation": "HC",
+    "aliases": [
+      "hang squat clean"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "hang clean",
+      "hc",
+      "hang squat clean"
+    ],
+    "youtubeId": "DaKC_BEN5bk",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-hang-squat-clean"
+  },
+  {
+    "id": "hang-clean-and-push-jerk",
+    "name": "Hang Clean and Push Jerk",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "hang clean and push jerk"
+    ],
+    "youtubeId": "KBpys4KTG5Q",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-hang-clean-and-push-jerk"
+  },
+  {
+    "id": "hang-power-clean",
+    "name": "Hang Power Clean",
+    "abbreviation": "HPC",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "hang power clean",
+      "hpc"
+    ],
+    "youtubeId": "0aP3tgKZcHQ",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-hang-power-clean"
+  },
+  {
+    "id": "hang-power-snatch",
+    "name": "Hang Power Snatch",
+    "abbreviation": "HPS",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "hang power snatch",
+      "hps"
+    ],
+    "youtubeId": "-mLzQdVAwlw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-hang-power-snatch"
+  },
+  {
+    "id": "hang-snatch",
+    "name": "Hang Snatch",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "hang snatch"
+    ],
+    "youtubeId": "IucshEToDyM",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-hang-snatch"
+  },
+  {
+    "id": "hanging-l-sit",
+    "name": "Hanging L-sit",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "hanging l-sit",
+      "hanging l sit"
+    ],
+    "youtubeId": "WHi1bvZLwlw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-hanging-l-sit"
+  },
+  {
+    "id": "inverted-burpee",
+    "name": "Inverted Burpee",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "inverted burpee"
+    ],
+    "youtubeId": "M6_nkTKhaFY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-inverted-burpee"
+  },
+  {
+    "id": "kettlebell-snatch",
+    "name": "Kettlebell Snatch",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Kettlebell"
+    ],
+    "keywords": [
+      "kettlebell snatch",
+      "kb snatch"
+    ],
+    "youtubeId": "Pm-b2XFeABA",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kettlebell-snatch"
+  },
+  {
+    "id": "kettlebell-swing",
+    "name": "Kettlebell Swing",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Kettlebell"
+    ],
+    "keywords": [
+      "kettlebell swing",
+      "kb swing"
+    ],
+    "youtubeId": "mKDIuUbH94Q",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kettlebell-swing"
+  },
+  {
+    "id": "kipping-bar-muscle-up",
+    "name": "Kipping Bar Muscle-up",
+    "abbreviation": "BMU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "kipping bar muscle-up",
+      "kipping bar muscle up",
+      "bmu"
+    ],
+    "youtubeId": "OCg3UXgzftc",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kipping-bar-muscle-up"
+  },
+  {
+    "id": "kipping-chest-to-bar-pull-up",
+    "name": "Kipping Chest-to-bar Pull-up",
+    "abbreviation": "C2B",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "kipping chest-to-bar pull-up",
+      "kipping chest to bar pull up",
+      "c2b"
+    ],
+    "youtubeId": "AyPTCEXTjOo",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kipping-chest-to-bar-pull-up"
+  },
+  {
+    "id": "kipping-deficit-handstand-push-up",
+    "name": "Kipping Deficit Handstand Push-up",
+    "abbreviation": "HSPU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "kipping deficit handstand push-up",
+      "kipping deficit hspu"
+    ],
+    "youtubeId": "DJA1t6Fp5WE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kipping-deficit-handstand-push-up"
+  },
+  {
+    "id": "kipping-handstand-push-up",
+    "name": "Kipping Handstand Push-up",
+    "abbreviation": "HSPU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "kipping handstand push-up",
+      "kipping hspu"
+    ],
+    "youtubeId": "9wIkPCS4Mbo",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kipping-handstand-push-up"
+  },
+  {
+    "id": "kipping-muscle-up",
+    "name": "Kipping Muscle-up",
+    "abbreviation": "MU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "kipping muscle-up",
+      "kipping muscle up"
+    ],
+    "youtubeId": "G8W0BhzrWcs",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kipping-muscle-up"
+  },
+  {
+    "id": "kipping-pull-up",
+    "name": "Kipping Pull-up",
+    "abbreviation": "PU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "kipping pull-up",
+      "kipping pull up"
+    ],
+    "youtubeId": "lzRo-4pq_AY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kipping-pull-up"
+  },
+  {
+    "id": "kipping-toes-to-bar",
+    "name": "Kipping Toes-to-bar",
+    "abbreviation": "T2B",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "kipping toes-to-bar",
+      "kipping toes to bar",
+      "t2b"
+    ],
+    "youtubeId": "6dHvTlsMvNY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-kipping-toes-to-bar"
+  },
+  {
+    "id": "l-pull-up",
+    "name": "L Pull-up",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "l pull-up",
+      "l pull up"
+    ],
+    "youtubeId": "qeGS55RHBUU",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-l-pull-up"
+  },
+  {
+    "id": "l-sit",
+    "name": "L-sit",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "l-sit",
+      "l sit"
+    ],
+    "youtubeId": "_HbccxgnCg0",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-l-sit"
+  },
+  {
+    "id": "l-sit-rope-climb",
+    "name": "L-sit Rope Climb",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "l-sit rope climb",
+      "l sit rope climb"
+    ],
+    "youtubeId": "Ewf8rqGRbrE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-l-sit-rope-climb"
+  },
+  {
+    "id": "l-sit-on-rings",
+    "name": "L-sit on Rings",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "l-sit on rings",
+      "l sit on rings"
+    ],
+    "youtubeId": "lwcHmXvw-T4",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-l-sit-on-rings"
+  },
+  {
+    "id": "l-sit-to-shoulder-stand",
+    "name": "L-sit to Shoulder Stand",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "l-sit to shoulder stand",
+      "l sit to shoulder stand"
+    ],
+    "youtubeId": "OkIPCkXhBmY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-l-sit-to-shoulder-stand"
+  },
+  {
+    "id": "legless-rope-climb",
+    "name": "Legless Rope Climb",
+    "abbreviation": "LRC",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "legless rope climb",
+      "lrc"
+    ],
+    "youtubeId": "rfr-Tw3Pxh8",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-legless-rope-climb"
+  },
+  {
+    "id": "medicine-ball-clean",
+    "name": "Medicine Ball Clean",
+    "abbreviation": "MB Clean",
+    "aliases": [
+      "med ball clean"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Medicine ball"
+    ],
+    "keywords": [
+      "medicine ball clean",
+      "med ball clean",
+      "mb clean"
+    ],
+    "youtubeId": "KVGhkHSrDJo",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-medicine-ball-clean"
+  },
+  {
+    "id": "modified-rope-climb",
+    "name": "Modified Rope Climb",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "modified rope climb"
+    ],
+    "youtubeId": "BsDRv1fiXIY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-modified-rope-climb"
+  },
+  {
+    "id": "muscle-snatch",
+    "name": "Muscle Snatch",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "muscle snatch"
+    ],
+    "youtubeId": "bJYzOo1cNqY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-muscle-snatch"
+  },
+  {
+    "id": "muscle-up",
+    "name": "Muscle-Up",
+    "abbreviation": "MU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings",
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "muscle up",
+      "mu"
+    ],
+    "youtubeId": "",
+    "sourceUrl": ""
+  },
+  {
+    "id": "overhead-squat",
+    "name": "Overhead Squat",
+    "abbreviation": "OHS",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "overhead squat",
+      "ohs"
+    ],
+    "youtubeId": "pn8mqlG0nkE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-overhead-squat"
+  },
+  {
+    "id": "power-clean",
+    "name": "Power Clean",
+    "abbreviation": "PC",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "power clean",
+      "pc"
+    ],
+    "youtubeId": "KwYJTpQ_x5A",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-power-clean"
+  },
+  {
+    "id": "power-clean-and-split-jerk",
+    "name": "Power Clean and Split Jerk",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "power clean and split jerk"
+    ],
+    "youtubeId": "Sk1vhXhHO_A",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-power-clean-split-jerk"
+  },
+  {
+    "id": "power-snatch",
+    "name": "Power Snatch",
+    "abbreviation": "PS",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "power snatch",
+      "ps"
+    ],
+    "youtubeId": "TL8SMp7RdXQ",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-power-snatch"
+  },
+  {
+    "id": "pull-up",
+    "name": "Pull-Up",
+    "abbreviation": "PU",
+    "aliases": [
+      "strict pull-up",
+      "kipping pull-up",
+      "dominada"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "pull up",
+      "pull-up",
+      "pu",
+      "dominada"
+    ],
+    "youtubeId": "2mAoQUCM_18",
+    "sourceUrl": ""
+  },
+  {
+    "id": "pull-over",
+    "name": "Pull-over",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "pull-over",
+      "pull over"
+    ],
+    "youtubeId": "faJDYEZmueM",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-pull-over"
+  },
+  {
+    "id": "push-jerk",
+    "name": "Push Jerk",
+    "abbreviation": "PJ",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "push jerk",
+      "pj"
+    ],
+    "youtubeId": "VrHNJXoSyXw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-push-jerk"
+  },
+  {
+    "id": "push-press",
+    "name": "Push Press",
+    "abbreviation": "PP",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "push press",
+      "pp"
+    ],
+    "youtubeId": "iaBVSJm78ko",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-push-press"
+  },
+  {
+    "id": "push-up",
+    "name": "Push-up",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "push-up",
+      "push up",
+      "flexion de brazos"
+    ],
+    "youtubeId": "0pkjOk0EiAk",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-push-up"
+  },
+  {
+    "id": "ring-dip",
+    "name": "Ring Dip",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "ring dip"
+    ],
+    "youtubeId": "EznLCDBAPIU",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-ring-dip"
+  },
+  {
+    "id": "ring-muscle-up",
+    "name": "Ring Muscle-Up",
+    "abbreviation": "RMU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "ring muscle up",
+      "rmu"
+    ],
+    "youtubeId": "",
+    "sourceUrl": ""
+  },
+  {
+    "id": "ring-push-up",
+    "name": "Ring Push-up",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "ring push-up",
+      "ring push up"
+    ],
+    "youtubeId": "FRiiZRhapeU",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-ring-push-up"
+  },
+  {
+    "id": "ring-row",
+    "name": "Ring Row",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "ring row"
+    ],
+    "youtubeId": "sEAOZc77wk8",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-ring-row"
+  },
+  {
+    "id": "rope-climb",
+    "name": "Rope Climb",
+    "abbreviation": "RC",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "rope climb",
+      "rc"
+    ],
+    "youtubeId": "2gG392ggroA",
+    "sourceUrl": ""
+  },
+  {
+    "id": "rope-climb-basket",
+    "name": "Rope Climb (Basket)",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "rope climb (basket)",
+      "rope climb basket"
+    ],
+    "youtubeId": "Pa4QUC9AvuA",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-rope-climb-basket"
+  },
+  {
+    "id": "rope-climb-wrapping",
+    "name": "Rope Climb (Wrapping)",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "rope climb (wrapping)",
+      "rope climb wrapping"
+    ],
+    "youtubeId": "zBoTgBpkn7o",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-rope-climb-wrapping"
+  },
+  {
+    "id": "rowing",
+    "name": "Rowing",
+    "aliases": [
+      "row",
+      "erg"
+    ],
+    "categories": [
+      "Monostructural"
+    ],
+    "equipment": [
+      "Rower"
+    ],
+    "keywords": [
+      "rowing",
+      "row",
+      "erg",
+      "remo"
+    ],
+    "youtubeId": "fxfhQMbATCw",
+    "sourceUrl": "https://www.crossfit.com/essentials/rowing"
+  },
+  {
+    "id": "running",
+    "name": "Running",
+    "aliases": [
+      "run"
+    ],
+    "categories": [
+      "Monostructural"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "running",
+      "run",
+      "correr"
+    ],
+    "youtubeId": "",
+    "sourceUrl": ""
+  },
+  {
+    "id": "shoot-through",
+    "name": "Shoot-through",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "shoot-through",
+      "shoot through"
+    ],
+    "youtubeId": "sZ9fP4iOmFs",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-shoot-through"
+  },
+  {
+    "id": "shoulder-press",
+    "name": "Shoulder Press",
+    "abbreviation": "SP",
+    "aliases": [
+      "strict press",
+      "press militar"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "shoulder press",
+      "strict press",
+      "sp"
+    ],
+    "youtubeId": "5yWaNOvgFCM",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-shoulder-press"
+  },
+  {
+    "id": "single-under",
+    "name": "Single Under",
+    "abbreviation": "SU",
+    "aliases": [],
+    "categories": [
+      "Monostructural"
+    ],
+    "equipment": [
+      "Rope"
+    ],
+    "keywords": [
+      "single under",
+      "su"
+    ],
+    "youtubeId": "hCuXYrTOMxI",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-single-under"
+  },
+  {
+    "id": "single-leg-squat",
+    "name": "Single-leg Squat (Pistol)",
+    "abbreviation": "Pistol",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "single-leg squat (pistol)",
+      "pistol",
+      "single leg squat"
+    ],
+    "youtubeId": "keSzg7MaoVQ",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-single-leg-squat"
+  },
+  {
+    "id": "skin-the-cat",
+    "name": "Skin the Cat",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "skin the cat"
+    ],
+    "youtubeId": "ABSpTs17ObA",
+    "sourceUrl": "https://www.crossfit.com/essentials/skin-the-cat"
+  },
+  {
+    "id": "slam-ball",
+    "name": "Slam Ball",
+    "aliases": [],
+    "categories": [
+      "Monostructural"
+    ],
+    "equipment": [
+      "Slam ball"
+    ],
+    "keywords": [
+      "slam ball"
+    ],
+    "youtubeId": "k9W6g9LvXDI",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-slam-ball"
+  },
+  {
+    "id": "snatch",
+    "name": "Snatch",
+    "aliases": [
+      "squat snatch",
+      "arranque"
+    ],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "snatch",
+      "squat snatch",
+      "arranque"
+    ],
+    "youtubeId": "GhxhiehJcQY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-snatch"
+  },
+  {
+    "id": "snatch-balance",
+    "name": "Snatch Balance",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "snatch balance"
+    ],
+    "youtubeId": "XuFaD1sAVGI",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-snatch-balance"
+  },
+  {
+    "id": "sots-press",
+    "name": "Sots Press",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "sots press"
+    ],
+    "youtubeId": "eJ9MLnNV6FY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-sots-press"
+  },
+  {
+    "id": "split-clean",
+    "name": "Split Clean",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "split clean"
+    ],
+    "youtubeId": "a5CR3Bi2Gc8",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-split-clean"
+  },
+  {
+    "id": "split-jerk",
+    "name": "Split Jerk",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "split jerk"
+    ],
+    "youtubeId": "GUDkOtraHHY",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-split-jerk"
+  },
+  {
+    "id": "split-snatch",
+    "name": "Split Snatch",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "split snatch"
+    ],
+    "youtubeId": "VFdCGK8yk-8",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-split-snatch"
+  },
+  {
+    "id": "straddle-press-to-handstand",
+    "name": "Straddle Press to Handstand",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "straddle press to handstand"
+    ],
+    "youtubeId": "DRYQDMUVgYE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-straddle-press"
+  },
+  {
+    "id": "strict-bar-muscle-up",
+    "name": "Strict Bar Muscle-up",
+    "abbreviation": "BMU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "strict bar muscle-up",
+      "strict bar muscle up"
+    ],
+    "youtubeId": "o69WaY_7k2c",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-bar-muscle-up"
+  },
+  {
+    "id": "strict-chest-to-bar-pull-up",
+    "name": "Strict Chest-to-bar Pull-up",
+    "abbreviation": "C2B",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "strict chest-to-bar pull-up",
+      "strict chest to bar pull up"
+    ],
+    "youtubeId": "xf69XHAs5w8",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-chest-to-bar-pull-up"
+  },
+  {
+    "id": "strict-handstand-push-up",
+    "name": "Strict Handstand Push-up",
+    "abbreviation": "HSPU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "strict handstand push-up",
+      "strict hspu"
+    ],
+    "youtubeId": "0wDEO6shVjc",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-handstand-push-up"
+  },
+  {
+    "id": "strict-knees-to-elbows",
+    "name": "Strict Knees-to-elbows",
+    "abbreviation": "K2E",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "strict knees-to-elbows",
+      "knees to elbows",
+      "k2e"
+    ],
+    "youtubeId": "_DUlB4YpZRw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-knees-to-elbow"
+  },
+  {
+    "id": "strict-muscle-up",
+    "name": "Strict Muscle-up",
+    "abbreviation": "MU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "strict muscle-up",
+      "strict muscle up"
+    ],
+    "youtubeId": "vJTJFc2wmk4",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-muscle-up"
+  },
+  {
+    "id": "strict-pull-up",
+    "name": "Strict Pull-up",
+    "abbreviation": "PU",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "strict pull-up",
+      "strict pull up"
+    ],
+    "youtubeId": "HRV5YKKaeVw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-pull-up"
+  },
+  {
+    "id": "strict-toes-to-bar",
+    "name": "Strict Toes-to-bar",
+    "abbreviation": "T2B",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "strict toes-to-bar",
+      "strict toes to bar"
+    ],
+    "youtubeId": "xX9Hzi7Onnw",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-toes-to-bar"
+  },
+  {
+    "id": "strict-toes-to-rings",
+    "name": "Strict Toes-to-rings",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "strict toes-to-rings",
+      "strict toes to rings"
+    ],
+    "youtubeId": "1zp-B1Vb_Vs",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-strict-toes-to-rings"
+  },
+  {
+    "id": "sumo-deadlift",
+    "name": "Sumo Deadlift",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "sumo deadlift"
+    ],
+    "youtubeId": "ENEg9UF7z7M",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-sumo-deadlift"
+  },
+  {
+    "id": "sumo-deadlift-high-pull",
+    "name": "Sumo Deadlift High Pull",
+    "abbreviation": "SDHP",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "sumo deadlift high pull",
+      "sdhp"
+    ],
+    "youtubeId": "gh55vVlwlQg",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-sumo-deadlift-high-pull"
+  },
+  {
+    "id": "swing-to-backward-roll-to-support",
+    "name": "Swing to Backward Roll to Support",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Rings"
+    ],
+    "keywords": [
+      "swing to backward roll to support"
+    ],
+    "youtubeId": "nwpEUd_Yc_E",
+    "sourceUrl": "https://www.crossfit.com/essentials/backward-roll-to-support"
+  },
+  {
+    "id": "thruster",
+    "name": "Thruster",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "thruster"
+    ],
+    "youtubeId": "L219ltL15zk",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-thruster"
+  },
+  {
+    "id": "toes-to-bar",
+    "name": "Toes-to-Bar",
+    "abbreviation": "T2B",
+    "aliases": [
+      "toes to bar"
+    ],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "toes to bar",
+      "t2b"
+    ],
+    "youtubeId": "fv92xyVowhY",
+    "sourceUrl": ""
+  },
+  {
+    "id": "walking-lunge",
+    "name": "Walking Lunge",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "walking lunge",
+      "estocada caminando"
+    ],
+    "youtubeId": "DlhojghkaQ0",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-walking-lunge"
+  },
+  {
+    "id": "wall-walk",
+    "name": "Wall Walk",
+    "abbreviation": "WW",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Bodyweight"
+    ],
+    "keywords": [
+      "wall walk",
+      "ww"
+    ],
+    "youtubeId": "NK_OcHEm8yM",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-wall-walk"
+  },
+  {
+    "id": "wall-ball-shot",
+    "name": "Wall-ball Shot",
+    "abbreviation": "WB",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Medicine ball",
+      "Wall"
+    ],
+    "keywords": [
+      "wall-ball shot",
+      "wall ball",
+      "wb"
+    ],
+    "youtubeId": "EqjGKsiIMCE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-wall-ball"
+  },
+  {
+    "id": "windshield-wiper",
+    "name": "Windshield Wiper",
+    "aliases": [],
+    "categories": [
+      "Gymnastics"
+    ],
+    "equipment": [
+      "Pull-up bar"
+    ],
+    "keywords": [
+      "windshield wiper"
+    ],
+    "youtubeId": "W2xdEDuR-dE",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-windshield-wiper"
+  },
+  {
+    "id": "zercher-squat",
+    "name": "Zercher Squat",
+    "aliases": [],
+    "categories": [
+      "Weightlifting"
+    ],
+    "equipment": [
+      "Barbell"
+    ],
+    "keywords": [
+      "zercher squat"
+    ],
+    "youtubeId": "nwx6Ip7hd3I",
+    "sourceUrl": "https://www.crossfit.com/essentials/the-zercher-squat"
+  }
+]

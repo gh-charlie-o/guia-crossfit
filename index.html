@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Movement Finder — CrossFit</title>
+  <meta
+    name="description"
+    content="Buscador rápido de movimientos de CrossFit: escribí una abreviatura o un nombre y encontrá la demostración oficial al toque."
+  />
+  <link href="https://fonts.googleapis.com" rel="preconnect" />
+  <link crossorigin href="https://fonts.gstatic.com" rel="preconnect" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="logo-mark">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 12h2"/><path d="M6 8v8"/><path d="M9 6v12"/><path d="M9 12h6"/><path d="M15 6v12"/><path d="M18 8v8"/><path d="M22 12h-2"/>
+        </svg>
+      </div>
+      <div class="topbar-text">
+        <span class="wordmark">Movement Finder</span>
+        <span class="status-line">
+          <span class="status-dot"></span>
+          <span class="status-text" id="status-text">Cargando…</span>
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <div class="page">
+    <main>
+      <section class="hero">
+        <div class="eyebrow">
+          <span class="status-dot"></span>
+          <span>Tactical WOD Reference</span>
+        </div>
+        <h1>¿Qué garabatearon en la pizarra?</h1>
+        <p>
+          Escribí el nombre, la sigla o como te acuerdes — snatch, T2B, HSPU, muscle up —
+          y te mostramos la demostración oficial.
+        </p>
+      </section>
+
+      <div class="search-shell">
+        <div class="search-box">
+          <span class="search-icon" aria-hidden="true">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </span>
+          <label for="search-input" class="visually-hidden">Buscar movimiento</label>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Buscar movimiento… (snatch, T2B, muscle up)"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <div class="search-controls">
+            <button type="button" id="clear-search" aria-label="Limpiar búsqueda" hidden>
+              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="18" y1="6" x2="6" y2="18"/></svg>
+            </button>
+            <span class="esc-chip">ESC</span>
+          </div>
+        </div>
+
+        <div class="filters" id="filters" role="group" aria-label="Filtrar por categoría"></div>
+      </div>
+
+      <p class="result-meta" id="result-meta" aria-live="polite"></p>
+
+      <ul class="results" id="results"></ul>
+
+      <div class="empty-state" id="empty-state" hidden>
+        <div class="empty-icon">
+          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="8" x2="14" y2="14"/></svg>
+        </div>
+        <span class="empty-eyebrow">Cero movimientos</span>
+        <h2>El coach se lo inventó</h2>
+        <p>No encontramos ese movimiento. Revisá cómo lo escribiste o limpiá los filtros.</p>
+        <button type="button" class="btn-reset" id="reset-search">Reiniciar búsqueda</button>
+      </div>
+
+      <footer class="site-footer">
+        <p>
+          CrossFit es una marca registrada de sus respectivos propietarios. Este proyecto es
+          independiente y no está afiliado oficialmente con CrossFit, LLC.
+        </p>
+        <p>
+          Las demostraciones enlazadas pertenecen a sus fuentes originales (CrossFit y/o su
+          canal oficial de YouTube). Esta app es una herramienta de búsqueda/referencia y no
+          reemplaza la enseñanza de un entrenador.
+        </p>
+      </footer>
+    </main>
+  </div>
+
+  <div class="modal-backdrop" id="modal-backdrop" hidden>
+    <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header">
+        <div>
+          <div class="modal-badge" id="modal-badge">Categoría</div>
+          <h2 id="modal-title">Movimiento</h2>
+        </div>
+        <button type="button" class="modal-close" id="modal-close" aria-label="Cerrar">
+          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="18" y1="6" x2="6" y2="18"/></svg>
+        </button>
+      </div>
+      <div class="modal-video" id="modal-video"></div>
+      <div class="modal-footer" id="modal-footer"></div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
