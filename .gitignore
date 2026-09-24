@@ -1,0 +1,26 @@
+# IntelliJ IDEA / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Otros editores
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code: configuración local por máquina
+.claude/settings.local.json
+
+# Logs y temporales
+*.log
+*.tmp
+.env
+.env.*

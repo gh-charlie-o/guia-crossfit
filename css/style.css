@@ -112,6 +112,12 @@ a {
   gap: 0.6rem;
 }
 
+@media (min-width: 1300px) {
+  .topbar-inner {
+    max-width: 1180px;
+  }
+}
+
 .logo-mark {
   width: 2rem;
   height: 2rem;
@@ -188,6 +194,12 @@ a {
   width: 100%;
   padding: 0 1.1rem 3rem;
   flex: 1;
+}
+
+@media (min-width: 1300px) {
+  .page {
+    max-width: 1180px;
+  }
 }
 
 /* ---------- hero ---------- */
@@ -492,6 +504,12 @@ a {
 @media (min-width: 900px) {
   .results {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1300px) {
+  .results {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
