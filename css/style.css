@@ -206,6 +206,8 @@ a {
 
 .hero {
   padding: 1.5rem 0 1.2rem;
+  /* Contenedor para que el h1 escale con el ancho real de la columna (cqi). */
+  container-type: inline-size;
 }
 
 .eyebrow {
@@ -230,16 +232,18 @@ a {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.01em;
-  font-size: clamp(1.7rem, 6vw, 2.3rem);
+  /* 7cqi hace que "¿Qué garabatearon en la pizarra?" ocupe ~97% del ancho en una
+     línea. Está calibrado para ese texto: si cambia el titular, recalibralo. */
+  font-size: clamp(1.7rem, 7cqi, 5.5rem);
   line-height: 1.05;
   color: var(--text-strong);
   margin: 0 0 0.75rem;
-  max-width: 18ch;
+  text-wrap: balance;
 }
 
 .hero p {
   margin: 0;
-  max-width: 44ch;
+  max-width: 62ch;
   color: var(--text-dim);
   font-size: 0.94rem;
 }

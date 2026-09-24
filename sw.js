@@ -4,7 +4,7 @@
 // datos (movements.json), así el buscador funciona sin señal en el
 // gimnasio pero igual toma datos frescos apenas hay conexión.
 
-const CACHE_NAME = "movement-finder-v1";
+const CACHE_NAME = "movement-finder-v2";
 
 const APP_SHELL = [
   "./",
