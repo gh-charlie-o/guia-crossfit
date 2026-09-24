@@ -1,0 +1,64 @@
+# Deploy automático a Hostinger por FTP.
+#
+# Cada push a main sube al server SOLO los archivos que cambiaron. La Action
+# guarda un .ftp-deploy-sync-state.json en el server para saber qué hay arriba;
+# la primera corrida, como ese archivo todavía no existe, sube todo.
+#
+# Ojo con el service worker: sw.js sirve el app shell cache-first, así que si
+# cambiaste HTML/CSS/JS y querés que le llegue a quien tiene la app instalada,
+# subí CACHE_NAME en sw.js en el mismo push.
+#
+# Configuración (una sola vez, en el repo de GitHub):
+#   Settings > Secrets and variables > Actions > Secrets
+#     FTP_SERVER     host FTP de Hostinger (hPanel > Archivos > Cuentas FTP)
+#     FTP_USERNAME   usuario FTP
+#     FTP_PASSWORD   contraseña FTP
+#
+# Todo se sube a public_html/ de la cuenta FTP.
+
+name: Deploy a Hostinger
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simulacro: lista qué subiría, sin subir nada"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+# Dos deploys pisándose serían un desastre: que el segundo espere al primero.
+concurrency:
+  group: deploy-hostinger
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el repo
+        uses: actions/checkout@v4
+
+      - name: Subir por FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          server-dir: public_html/
+          dry-run: ${{ inputs.dry_run || false }}
+          log-level: standard
+          # Al definir exclude se reemplaza el default de la Action, por eso
+          # van repetidas las tres primeras líneas.
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            .claude/**
+            **/*.md
+            img/og-image-full.jpg
