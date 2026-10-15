@@ -261,7 +261,7 @@ function openModal(movement) {
 
   els.modalVideo.innerHTML = "";
   const iframe = document.createElement("iframe");
-  iframe.src = `https://www.youtube-nocookie.com/embed/${movement.youtubeId}?autoplay=1&rel=0&modestbranding=1`;
+  iframe.src = `https://www.youtube-nocookie.com/embed/${movement.youtubeId}?autoplay=1&rel=0`;
   iframe.title = `Demostración: ${movement.name}`;
   iframe.allow =
     "accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
